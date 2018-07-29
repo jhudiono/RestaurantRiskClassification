@@ -1,0 +1,448 @@
+                    city                     | count 
+---------------------------------------------+-------
+ Las Vegas                                   | 19328
+ Phoenix                                     | 11852
+ Charlotte                                   |  5695
+ Scottsdale                                  |  5638
+ Montréal                                    |  4371
+ Mesa                                        |  3638
+ Pittsburgh                                  |  3628
+ Edinburgh                                   |  3360
+ Henderson                                   |  3145
+ Tempe                                       |  3043
+ Chandler                                    |  2702
+ Madison                                     |  2278
+ Glendale                                    |  2048
+ Gilbert                                     |  1941
+ Peoria                                      |  1081
+ North Las Vegas                             |   952
+ Karlsruhe                                   |   906
+ Surprise                                    |   681
+ Goodyear                                    |   507
+ Champaign                                   |   505
+ Avondale                                    |   427
+ Matthews                                    |   399
+ Queen Creek                                 |   383
+ Waterloo                                    |   297
+ Fort Mill                                   |   287
+ Urbana                                      |   286
+ Cave Creek                                  |   266
+ Laval                                       |   222
+ Middleton                                   |   222
+ Pineville                                   |   210
+ Kitchener                                   |   209
+ Fountain Hills                              |   204
+ Casa Grande                                 |   201
+ Apache Junction                             |   186
+ Concord                                     |   185
+ Maricopa                                    |   165
+ Buckeye                                     |   163
+ Fitchburg                                   |   136
+ Anthem                                      |   135
+ Sun Prairie                                 |   129
+ Sun City                                    |   126
+ Litchfield Park                             |   120
+ Verdun                                      |   109
+ San Tan Valley                              |   100
+ Homestead                                   |    98
+ Laveen                                      |    96
+ Montreal                                    |    96
+ Tolleson                                    |    90
+ Paradise Valley                             |    90
+ Monona                                      |    85
+ Belmont                                     |    83
+ Wickenburg                                  |    78
+ Saint-Laurent                               |    75
+ Brossard                                    |    72
+ Indian Trail                                |    67
+ Verona                                      |    67
+ El Mirage                                   |    63
+ Carnegie                                    |    62
+ Westmount                                   |    59
+ Ettlingen                                   |    56
+ Carefree                                    |    54
+ Pointe-Claire                               |    52
+ Mint Hill                                   |    50
+ Dollard-des-Ormeaux                         |    50
+ Lasalle                                     |    49
+ Florence                                    |    46
+ Sun City West                               |    45
+ Dorval                                      |    43
+ Gold Canyon                                 |    42
+ Boulder City                                |    42
+ Waunakee                                    |    41
+ Huntersville                                |    39
+ Harrisburg                                  |    39
+ West Mifflin                                |    36
+ Outremont                                   |    35
+ Longueuil                                   |    32
+ Youngtown                                   |    30
+ Dollard-Des-Ormeaux                         |    30
+ Lachine                                     |    29
+ Kirkland                                    |    26
+ Paradise                                    |    26
+ Pierrefonds                                 |    26
+ Saint-Leonard                               |    25
+ Bellevue                                    |    24
+ Mount Holly                                 |    23
+ Gila Bend                                   |    21
+ Coolidge                                    |    21
+ De Forest                                   |    21
+ Cottage Grove                               |    20
+ Munhall                                     |    19
+ N Las Vegas                                 |    19
+ New River                                   |    18
+ Higley                                      |    17
+ Mc Farland                                  |    17
+ McKees Rocks                                |    17
+ McFarland                                   |    16
+ Sun Lakes                                   |    16
+ Guadalupe                                   |    15
+ Savoy                                       |    15
+ Nellis AFB                                  |    15
+ Mont-Royal                                  |    14
+ Tonopah                                     |    13
+ Mount Lebanon                               |    13
+ South Queensferry                           |    13
+ Rheinstetten                                |    13
+ Musselburgh                                 |    13
+ Eggenstein-Leopoldshafen                    |    13
+ Tega Cay                                    |    13
+ Aspinwall                                   |    12
+ Ahwatukee                                   |    12
+ Mc Kees Rocks                               |    12
+ West Homestead                              |    12
+ Weingarten                                  |    11
+ Stallings                                   |    11
+ Bridgeville                                 |    11
+ Saint-Lambert                               |    11
+ Durmersheim                                 |    11
+ Anjou                                       |    11
+ Pfinztal                                    |    11
+ Windsor                                     |    10
+ DeForest                                    |    10
+ La Prairie                                  |    10
+ Cambridge                                   |    10
+ Wilkinsburg                                 |     9
+ Brentwood                                   |     9
+ Dalkeith                                    |     9
+ Waldbronn                                   |     9
+ Wesley Chapel                               |     8
+ Rio Verde                                   |     8
+ Indian Land                                 |     8
+ Sainte-Anne-De-Bellevue                     |     8
+ Saint-Eustache                              |     8
+ Fort McDowell                               |     8
+ Laveen Village                              |     8
+ Waddell                                     |     8
+ Wörth am Rhein                              |     8
+ Greenfield Park                             |     8
+ Tonto Basin                                 |     7
+ Stutensee                                   |     7
+ Lake Wylie                                  |     7
+ Crafton                                     |     7
+ Boisbriand                                  |     7
+ Rosemere                                    |     7
+ Karlsbad                                    |     7
+ Heidelberg                                  |     7
+ Terrebonne                                  |     7
+ Millvale                                    |     6
+ Enterprise                                  |     6
+ Leith                                       |     6
+ Las Vegas                                   |     6
+ Castle Shannon                              |     6
+ Spring Valley                               |     6
+ Loanhead                                    |     6
+ Old Town                                    |     6
+ Morristown                                  |     5
+ Beaconsfield                                |     5
+ LaSalle                                     |     5
+ Rosemère                                    |     5
+ Waxhaw                                      |     5
+ Hagenbach                                   |     5
+ Juniper Green                               |     5
+ Mckees Rocks                                |     5
+ Scottdale                                   |     5
+ Lawrenceville                               |     4
+ Weddington                                  |     4
+ Dravosburg                                  |     4
+ Clover                                      |     4
+ Stockbridge                                 |     4
+ Bietigheim                                  |     4
+ St. Jacobs                                  |     4
+ Avalon                                      |     4
+ New Town                                    |     4
+ Sharpsburg                                  |     4
+ Saint Laurent                               |     4
+ Midlothian                                  |     4
+ St Jacobs                                   |     4
+ Pointe-Aux-Trembles                         |     4
+ Braddock                                    |     4
+ Sainte-Anne-de-Bellevue                     |     4
+ Oregon                                      |     4
+ La Salle                                    |     4
+ Mt Lebanon                                  |     4
+ phoenix                                     |     4
+ Swissvale                                   |     4
+ Dormont                                     |     4
+ Vimont                                      |     4
+ Squirrel Hill                               |     3
+ Montreal-Nord                               |     3
+ Tortilla Flat                               |     3
+ Nellis Afb                                  |     3
+ Newbridge                                   |     3
+ scottsdale                                  |     3
+ glendale                                    |     3
+ South Las Vegas                             |     3
+ Queensferry                                 |     3
+ Shadyside                                   |     3
+ Portobello                                  |     3
+ Bethel Park                                 |     3
+ Stoughton                                   |     3
+ Bellvue                                     |     3
+ Clark                                       |     3
+ Weingarten (Baden)                          |     3
+ Firth of Forth                              |     3
+ Black Canyon City                           |     3
+ Inverkeithing                               |     3
+ Rock Hill                                   |     3
+ Concord Mills                               |     3
+ Central City Village                        |     3
+ Saint-Hubert                                |     3
+ Downtown                                    |     3
+ Lasswade                                    |     3
+ Oakland                                     |     3
+ City of Edinburgh                           |     3
+ Fort Mcdowell                               |     3
+ Sainte-Thérèse                              |     3
+ Montreal-West                               |     2
+ McKeesport                                  |     2
+ Dane                                        |     2
+ Blainville                                  |     2
+ Summerlin South                             |     2
+ Columbus                                    |     2
+ Montreal-Ouest                              |     2
+ Dollard-Des Ormeaux                         |     2
+ Blawnox                                     |     2
+ Neuburg am Rhein                            |     2
+ Straiton                                    |     2
+ Ft. Mill                                    |     2
+ East Liberty                                |     2
+ Roxboro                                     |     2
+ Edgewood                                    |     2
+ Communauté-Urbaine-de-Montréal              |     2
+ Allentown                                   |     2
+ Bonnyrigg                                   |     2
+ Phoneix                                     |     2
+ Cote-Saint-Luc                              |     2
+ Mount Washington                            |     2
+ Pointe Claire                               |     2
+ L'Île-Bizard                                |     2
+ Cote Saint-Luc                              |     2
+ Rankin                                      |     2
+ Montréal-Nord                               |     2
+ Conestogo                                   |     2
+                                             |     2
+ Penicuik                                    |     2
+ Brookline                                   |     2
+ Arlington                                   |     2
+ Roosevelt                                   |     2
+ Jockgrim                                    |     2
+ Bruntsfield                                 |     2
+ Pheonix                                     |     2
+ N. Las Vegas                                |     2
+ Deforest                                    |     2
+ North Queensferry                           |     2
+ Summerlin                                   |     2
+ St-Leonard                                  |     2
+ Mt. Lebanon                                 |     2
+ Charlotte                                   |     2
+ Las vegas                                   |     2
+ Newington                                   |     2
+ Saint-laurent                               |     2
+ Monroe                                      |     2
+ Mcfarland                                   |     2
+ Québec                                      |     1
+ Regent Square                               |     1
+ Nboulder City                               |     1
+ Sedona                                      |     1
+ PITTSBURGH                                  |     1
+ Locust                                      |     1
+ Litchfield Park                             |     1
+ Litchfield                                  |     1
+ Gilbert, AZ                                 |     1
+ Old Scottsdale                              |     1
+ Henderson and Las vegas                     |     1
+ Garland                                     |     1
+ MMRP                                        |     1
+ Scotland                                    |     1
+ Deux-Montagnes                              |     1
+ Southside Flats                             |     1
+ Mathews                                     |     1
+ Pittsburg                                   |     1
+ Stanfield                                   |     1
+ Scotesdale                                  |     1
+ Sunrise                                     |     1
+ Breslau                                     |     1
+ Mascouche                                   |     1
+ Nellis Air Force Base                       |     1
+ W Summerlin                                 |     1
+ Desert Ridge                                |     1
+ Roslin                                      |     1
+ Shorewood Hills                             |     1
+ Lachenaie                                   |     1
+ Repentigny                                  |     1
+ Mattews                                     |     1
+ Green Valley                                |     1
+ Mount Royal                                 |     1
+ Fort  Mill                                  |     1
+ Sun PrairieÊ                                |     1
+ Sainte-Anne-des-Plaines                     |     1
+ Edimbourg                                   |     1
+ South Hills                                 |     1
+ Montréal-Ouest                              |     1
+ Île des Soeurs                              |     1
+ Peoria                                      |     1
+ Fort Kinnaird                               |     1
+ Dallas                                      |     1
+ Bois-Des-Filion                             |     1
+ Centennial Hills                            |     1
+ Glbert                                      |     1
+ Sun City Anthem                             |     1
+ Sainte-Therese                              |     1
+ Fitchburgh                                  |     1
+ Scottsdale AZ                               |     1
+ Nellis                                      |     1
+ Ingram                                      |     1
+ LasVegas                                    |     1
+ Glendale Az                                 |     1
+ Grand Canyon                                |     1
+ Mirabel                                     |     1
+ Stowe Township                              |     1
+ Las Vegas, NV                               |     1
+ Metro Phoenix                               |     1
+ Montgomery                                  |     1
+ San Tan                                     |     1
+ Sainte-Genevieve                            |     1
+ Arlington Heights                           |     1
+ Chandler-Gilbert                            |     1
+ London                                      |     1
+ Etna                                        |     1
+ Water of Leith                              |     1
+ New Dundee                                  |     1
+ Ste-Rose                                    |     1
+ Phoenix, AZ                                 |     1
+ Banksville                                  |     1
+ Victoria Park                               |     1
+ Phoenix AZ                                  |     1
+ Henderston                                  |     1
+ Red Mountain                                |     1
+ Glasgow                                     |     1
+ Lake Las Vegas                              |     1
+ North Las Vegas                             |     1
+ Ahwatukee Foothills Village                 |     1
+ Asheville                                   |     1
+ N E Las Vegas                               |     1
+ Whitehall                                   |     1
+ San Diego                                   |     1
+ Whitney                                     |     1
+ Burrito King                                |     1
+ Central City                                |     1
+ Balerno                                     |     1
+ Phoenix Sky Harbor Center                   |     1
+ Las Vegas East                              |     1
+ MADISON                                     |     1
+ Deux-Montagnes Regional County Municipality |     1
+ Mesa                                        |     1
+ Gelndale                                    |     1
+ Phoe                                        |     1
+ Las Vegas Strip                             |     1
+ Hendserson                                  |     1
+ Blue Diamond                                |     1
+ Bocholt                                     |     1
+ Gaston                                      |     1
+ St-Laurent                                  |     1
+ Cramond                                     |     1
+ Baie-D'urfe                                 |     1
+ East McKeesport                             |     1
+ University                                  |     1
+ McAdenville                                 |     1
+ Estrella Village                            |     1
+ C Las Vegas                                 |     1
+ MESA                                        |     1
+ Charlote                                    |     1
+ Shady Side                                  |     1
+ Queen Valley                                |     1
+ Ingliston                                   |     1
+ Peopria                                     |     1
+ Chomedey, Laval                             |     1
+ NELLIS AFB                                  |     1
+ Bloomfield                                  |     1
+ Wittmann                                    |     1
+ South Mountain                              |     1
+ W Spring Valley                             |     1
+ Cramond Bridge                              |     1
+ City Center                                 |     1
+ Robinson Township                           |     1
+ Litchfield park                             |     1
+ Forchheim                                   |     1
+ Central Henderson                           |     1
+ Side Slopes                                 |     1
+ South Gyle                                  |     1
+ W Henderson                                 |     1
+ Ahwahtukee                                  |     1
+ Lower Lawrenceville                         |     1
+ Green Tree                                  |     1
+ Kahnawake                                   |     1
+ Los Angeles                                 |     1
+ Mt. Oliver Boro                             |     1
+ Stutensee-Blankenloch                       |     1
+ Fabreville                                  |     1
+ La Paz                                      |     1
+ Saint Leonard                               |     1
+ Tempe                                       |     1
+ North Scottsdale                            |     1
+ Peoria Ave Citizen's Group                  |     1
+ Montéal                                     |     1
+ Charlemagne                                 |     1
+ Fountainbridge                              |     1
+ Montral                                     |     1
+ PEORIA                                      |     1
+ Le Sud-Ouest                                |     1
+ Saint-Léonard                               |     1
+ Rheinstetten-Mörsch                         |     1
+ St Leonard                                  |     1
+ Maricopa AZ                                 |     1
+ Sun City Grand                              |     1
+ LAS  VEGAS                                  |     1
+ Ratho                                       |     1
+ Sunnyslope                                  |     1
+ Las  Vegas                                  |     1
+ Montreal-Est                                |     1
+ SCOTTSDALE                                  |     1
+ Allegheny                                   |     1
+ Currie                                      |     1
+ LA Puente                                   |     1
+ Phoenix                                     |     1
+ Wörth                                       |     1
+ Point Claire                                |     1
+ Mesa AZ                                     |     1
+ Central                                     |     1
+ Bruchsal                                    |     1
+ Eagan                                       |     1
+ West Las Vegas                              |     1
+ North Carolina                              |     1
+ Upper Saint Clair                           |     1
+ Saint-Henri                                 |     1
+ Surprise Crossing                           |     1
+ Payson                                      |     1
+ Edinburgh City of                           |     1
+ N W Las Vegas                               |     1
+ Westworld Scottsdale                        |     1
+ Henderson NV                                |     1
+ Chateau                                     |     1
+ Goldfield                                   |     1
+ 110 Las Vegas                               |     1
+ pleasant hills                              |     1
+(444 rows)
+
