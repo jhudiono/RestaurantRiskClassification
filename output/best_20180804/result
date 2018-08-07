@@ -1,0 +1,78 @@
+,model,train_accuracy,test_accuracy,train_precision,test_precision,train_recall,test_recall,train_f1,test_f1,train_roc_auc,test_roc_auc,train_explained_variance,test_explained_variance,classification_report,est,fit_time,learning_rate,max_depth,max_features,min_impurity_decrease,min_samples_leaf,score_time,test_class_balance,train_class_balance,degree,kernel,C,tol
+0,gradient_boosting,0.917030354141389,0.8808574284061401,0.8892650001165054,0.8545958569851848,0.95304777015256,0.9178289193101944,0.919988546481494,0.8850022928886015,0.9691629927788554,0.9428141233326746,0.6736399461354243,0.5293566731776205,"             precision    recall  f1-score   support
+
+          0       0.94      0.85      0.89      4528
+          1       0.87      0.94      0.90      4562
+
+avg / total       0.90      0.90      0.90      9090
+","GridSearchCV(cv=None, error_score='raise',
+       estimator=GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False),
+       fit_params=None, iid=True, n_jobs=1,
+       param_grid={'learning_rate': [1, 10, 100], 'max_depth': [5, 25, None], 'max_features': ['sqrt', 'log2', None], 'min_impurity_decrease': [0.1, 0.2, 0.5], 'min_samples_leaf': [10, 100, 1000]},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)",1809.7753679354985,1.0,5.0,,0.1,100.0,0.041394591331481934,"1: 50.19%, 0: 49.81%","0: 50.06%, 1: 49.94%",,,,
+1,random_forest,0.5010634396786644,0.501063439712805,0.5010634396786644,0.501063439712805,1.0,1.0,0.6676112766269003,0.6676112751304061,0.5,0.5,0.0,1.4802973661668753e-16,"             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00      4574
+          1       0.50      1.00      0.66      4516
+
+avg / total       0.25      0.50      0.33      9090
+","GridSearchCV(cv=None, error_score='raise',
+       estimator=RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False),
+       fit_params=None, iid=True, n_jobs=1,
+       param_grid={'max_features': ['sqrt', 'log2', None], 'max_depth': [5, 25, None], 'min_impurity_decrease': [0.1, 0.2, 0.5], 'min_samples_leaf': [10, 100, 1000]},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)",12.6799635887146,,5.0,sqrt,0.1,100.0,0.022748788197835285,"0: 50.32%, 1: 49.68%","1: 50.11%, 0: 49.89%",,,,
+2,svm,0.6158269160249358,0.6103043637697104,0.6723218977539691,0.6644491259833356,0.44496021220159143,0.43854995579133504,0.5354983342969861,0.5282768778330146,0.6730573225466515,0.6644640114099537,-0.42338889979743694,-0.44404708929608133,"             precision    recall  f1-score   support
+
+          0       0.58      0.76      0.66      4482
+          1       0.67      0.46      0.54      4608
+
+avg / total       0.62      0.61      0.60      9090
+","GridSearchCV(cv=None, error_score='raise',
+       estimator=SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False),
+       fit_params=None, iid=True, n_jobs=1,
+       param_grid={'kernel': ['linear', 'poly', 'rbf'], 'degree': [1, 2, 5, 10]},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)",710.1975620985031,,,,,,23.000399629275005,"1: 50.69%, 0: 49.31%","1: 49.77%, 0: 50.23%",1.0,rbf,,
+3,logistic_regression,0.5771543821048771,0.5762009534286762,0.597395315384443,0.5964774192315415,0.4589823008849558,0.45685840707964603,0.5190932938307835,0.5173116217527606,0.6177568146756776,0.6158845684630428,-0.6382247180857585,-0.6406208890868365,"             precision    recall  f1-score   support
+
+          0       0.56      0.70      0.62      4470
+          1       0.62      0.47      0.54      4620
+
+avg / total       0.59      0.58      0.58      9090
+","GridSearchCV(cv=None, error_score='raise',
+       estimator=LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False),
+       fit_params=None, iid=True, n_jobs=1,
+       param_grid={'tol': [0.1, 0.01, 0.0001, 1e-06], 'C': [100.0, 10, 1.0, 0.1, 0.001]},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)",2.6993772188822427,,,,,,0.008395075798034668,"1: 50.83%, 0: 49.17%","0: 50.28%, 1: 49.72%",,,0.1,0.01
+4,naive_bayes,0.558056494980266,0.557901377640914,0.648344553604035,0.647793919316892,0.2607132383427315,0.2608866212367101,0.3718664699929004,0.3718364699937613,0.6051523908194634,0.6035900655269498,-0.407754647701968,-0.40891324858052364,"             precision    recall  f1-score   support
+
+          0       0.54      0.86      0.67      4594
+          1       0.65      0.26      0.37      4496
+
+avg / total       0.60      0.56      0.52      9090
+","GridSearchCV(cv=None, error_score='raise', estimator=GaussianNB(priors=None),
+       fit_params=None, iid=True, n_jobs=1, param_grid={},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)",0.055073300997416176,,,,,,0.013567646344502768,"1: 49.46%, 0: 50.54%","0: 49.82%, 1: 50.18%",,,,

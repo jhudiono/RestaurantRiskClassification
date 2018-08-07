@@ -1,0 +1,25 @@
+Gradient boosting seems pretty good, not much overfitting (.96 vs .94 roc auc).
+Random forest didnt' work at all (accuracy only 50%, roc auc only .5).
+Others were about 55-65% accuracy/roc auc. 
+
+model                    gradient_boosting
+max_features                          None
+learning_rate                            1
+max_depth                                5
+min_impurity_decrease                  0.1
+min_samples_leaf                       100
+degree                                 NaN
+kernel                                 NaN
+C                                      NaN
+tol                                    NaN
+
+None for max_features might mean more features would be even better.
+
+feature importance:
+[0.39528904 0.05544001 0.0060857  0.01805252 0.00715333 0.00807878
+ 0.00640769 0.0053245  0.00603679 0.00590353 0.00814726 0.00789914
+ 0.         0.0101817 ]
+I think this maps to:
+['review_count', 'stars', 'noise_level', 'price', 'bar', 'fast_food',
+ 'mexican', 'chinese', 'american', 'takeout', 'alcohol',
+ 'good_for_groups', 'good_for_kids', 'credit_card'] 

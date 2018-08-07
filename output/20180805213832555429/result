@@ -1,0 +1,35 @@
+,model,train_accuracy,test_accuracy,train_precision,test_precision,train_recall,test_recall,train_f1,test_f1,train_roc_auc,test_roc_auc,train_explained_variance,test_explained_variance,booster,classification_report,est,fit_time,learning_rate,max_depth,score_time,test_class_balance,train_class_balance,reg_alpha
+0,xgb_tree,0.9543819673324783,0.9171992309747056,0.9259010098012274,0.8863261042110618,0.9882128567308879,0.9578098658229602,0.9560279944763174,0.9206592457991146,0.9898967839429016,0.9571551785213854,0.8221670569777934,0.6754686995294312,gbtree,"             precision    recall  f1-score   support
+
+          0       0.97      0.88      0.92      4586
+          1       0.89      0.97      0.93      4504
+
+avg / total       0.93      0.92      0.92      9090
+","GridSearchCV(cv=None, error_score='raise',
+       estimator=XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1),
+       fit_params=None, iid=True, n_jobs=1,
+       param_grid={'learning_rate': [0.1, 0.3, 0.5, 0.9], 'max_depth': [3, 5, 10, 15], 'booster': ['gbtree']},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)",92.89031422138214,0.5,10.0,0.24856197834014893,"0: 50.45%, 1: 49.55%","1: 50.15%, 0: 49.85%",
+1,xgb_linear,0.5015401540183839,0.5015401540899599,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.0,gblinear,"             precision    recall  f1-score   support
+
+          0       0.50      1.00      0.66      4503
+          1       0.00      0.00      0.00      4587
+
+avg / total       0.25      0.50      0.33      9090
+","GridSearchCV(cv=None, error_score='raise',
+       estimator=XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1),
+       fit_params=None, iid=True, n_jobs=1,
+       param_grid={'reg_alpha': [0.1, 1, 10, 100], 'booster': ['gblinear']},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)",2.289113203684489,,,0.018970449765523274,"0: 49.54%, 1: 50.46%","0: 50.15%, 1: 49.85%",0.1
