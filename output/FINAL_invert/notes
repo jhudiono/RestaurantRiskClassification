@@ -1,0 +1,3 @@
+Train on dataset balanced with SMOTE, 1 = open.
+
+Test on unbalanced dataset. 

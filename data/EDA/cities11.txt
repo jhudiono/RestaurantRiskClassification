@@ -1,0 +1,620 @@
+                    city                     | count 
+---------------------------------------------+-------
+ Toronto                                     |  4393
+ Las Vegas                                   |  4085
+ Phoenix                                     |  2677
+ Charlotte                                   |  1717
+ Montréal                                    |  1677
+ Pittsburgh                                  |  1418
+ Edinburgh                                   |  1079
+ Scottsdale                                  |   953
+ Mesa                                        |   821
+ Cleveland                                   |   817
+ Mississauga                                 |   685
+ Tempe                                       |   682
+ Madison                                     |   644
+ Henderson                                   |   610
+ Chandler                                    |   550
+ Stuttgart                                   |   523
+ Glendale                                    |   481
+ Markham                                     |   472
+ Gilbert                                     |   441
+ North Las Vegas                             |   256
+ Peoria                                      |   253
+ Scarborough                                 |   251
+ North York                                  |   245
+ Richmond Hill                               |   238
+ Vaughan                                     |   223
+ Champaign                                   |   221
+ Brampton                                    |   214
+ Concord                                     |   184
+ Oakville                                    |   168
+ Etobicoke                                   |   160
+ Surprise                                    |   158
+ Avondale                                    |   129
+ Goodyear                                    |   119
+ Fort Mill                                   |   118
+ Huntersville                                |   110
+ Lakewood                                    |   110
+ Matthews                                    |   106
+ Gastonia                                    |   103
+ Mentor                                      |    97
+ Urbana                                      |    90
+ Aurora                                      |    85
+ Thornhill                                   |    83
+ Laval                                       |    83
+ Montreal                                    |    79
+ Cuyahoga Falls                              |    78
+ Pickering                                   |    77
+ Newmarket                                   |    77
+ Strongsville                                |    75
+ Whitby                                      |    75
+ Ajax                                        |    73
+ Cornelius                                   |    70
+ Westlake                                    |    67
+ Kent                                        |    65
+ Medina                                      |    63
+ Monroeville                                 |    62
+ Parma                                       |    61
+ Middleton                                   |    61
+ Stow                                        |    59
+ North Olmsted                               |    58
+ Rocky River                                 |    57
+ Fountain Hills                              |    54
+ Cave Creek                                  |    49
+ Woodbridge                                  |    49
+ Ludwigsburg                                 |    49
+ Willoughby                                  |    47
+ Indian Trail                                |    47
+ Fitchburg                                   |    46
+ Sun Prairie                                 |    46
+ Solon                                       |    45
+ Belmont                                     |    45
+ Hudson                                      |    45
+ Pineville                                   |    44
+ Verdun                                      |    44
+ Avon                                        |    43
+ Wexford                                     |    43
+ Beachwood                                   |    39
+ Cleveland Heights                           |    37
+ Bridgeville                                 |    37
+ Chester                                     |    37
+ Sun City                                    |    36
+ Brunswick                                   |    36
+ Verona                                      |    36
+ Brossard                                    |    35
+ Böblingen                                   |    35
+ Boulder City                                |    35
+ Elyria                                      |    34
+ Bethel Park                                 |    34
+ Litchfield Park                             |    33
+ Esslingen                                   |    33
+ Fairlawn                                    |    33
+ Inverness                                   |    33
+ Amherst                                     |    32
+ Mayfield Heights                            |    32
+ Saint-Laurent                               |    31
+ Monona                                      |    31
+ Canonsburg                                  |    31
+ Kannapolis                                  |    31
+ Berea                                       |    31
+ Coraopolis                                  |    31
+ Carnegie                                    |    29
+ Gibsonia                                    |    29
+ Laveen                                      |    29
+ Homestead                                   |    29
+ Sindelfingen                                |    29
+ Twinsburg                                   |    28
+ Westmount                                   |    28
+ Pointe-Claire                               |    28
+ Streetsboro                                 |    27
+ Broadview Heights                           |    27
+ Harrisburg                                  |    27
+ Chagrin Falls                               |    27
+ South Euclid                                |    27
+ Painesville                                 |    26
+ Fellbach                                    |    26
+ North Royalton                              |    26
+ East York                                   |    25
+ Tolleson                                    |    25
+ Waxhaw                                      |    25
+ Middleburg Heights                          |    24
+ Mint Hill                                   |    24
+ York                                        |    23
+ Macedonia                                   |    23
+ Euclid                                      |    23
+ Irwin                                       |    23
+ Davidson                                    |    23
+ West Mifflin                                |    22
+ Chardon                                     |    22
+ Waunakee                                    |    22
+ Avon Lake                                   |    22
+ Independence                                |    22
+ Sewickley                                   |    22
+ Maple                                       |    21
+ El Mirage                                   |    20
+ Lorain                                      |    19
+ Stoughton                                   |    19
+ Leinfelden-Echterdingen                     |    19
+ North Ridgeville                            |    19
+ Murrysville                                 |    19
+ Brecksville                                 |    18
+ Lasalle                                     |    18
+ Stouffville                                 |    18
+ Lyndhurst                                   |    18
+ Fairview Park                               |    18
+ New Kensington                              |    18
+ Mount Horeb                                 |    18
+ Bedford                                     |    18
+ Brooklyn                                    |    17
+ MESA                                        |    17
+ Dollard-Des-Ormeaux                         |    16
+ Mount Holly                                 |    16
+ McMurray                                    |    16
+ Oregon                                      |    15
+ Dorval                                      |    15
+ Anthem                                      |    15
+ Outremont                                   |    15
+ Indian Land                                 |    15
+ Georgetown                                  |    15
+ North Versailles                            |    14
+ McKees Rocks                                |    14
+ Vaudreuil-Dorion                            |    14
+ Lachine                                     |    14
+ Chesterland                                 |    14
+ Waiblingen                                  |    14
+ Northfield                                  |    14
+ Savoy                                       |    14
+ Shaker Heights                              |    14
+ Carefree                                    |    14
+ Dollard-des-Ormeaux                         |    13
+ Filderstadt                                 |    13
+ Fairview                                    |    13
+ Longueuil                                   |    13
+ Mahomet                                     |    13
+ University Heights                          |    13
+ Warrensville Heights                        |    13
+ Saint-Sauveur                               |    13
+ Parma Heights                               |    13
+ Saint-Leonard                               |    12
+ Olivos                                      |    12
+ Dallas                                      |    12
+ Woodmere                                    |    12
+ Brook Park                                  |    12
+ Whitchurch-Stouffville                      |    12
+ McKeesport                                  |    12
+ Olmsted Falls                               |    12
+ Maple Heights                               |    11
+ Tega Cay                                    |    11
+ Richfield                                   |    11
+ Youngtown                                   |    11
+ Cottage Grove                               |    11
+ Rantoul                                     |    11
+ Bolton                                      |    11
+ Eastlake                                    |    11
+ Monticello                                  |    11
+ Pleasant Hills                              |    11
+ Tallmadge                                   |    10
+ Sheffield Village                           |    10
+ North Huntingdon                            |    10
+ Middlefield                                 |    10
+ Willowick                                   |    10
+ East Gwillimbury                            |    10
+ Glenshaw                                    |    10
+ San Tan Valley                              |    10
+ Allison Park                                |    10
+ Garfield Heights                            |    10
+ Lake Wylie                                  |    10
+ Oakdale                                     |    10
+ Sun City West                               |    10
+ Kirkland                                    |     9
+ Ambridge                                    |     9
+ Oakmont                                     |     9
+ Bay Village                                 |     9
+ Bellevue                                    |     9
+ Ostfildern                                  |     9
+ Leonberg                                    |     9
+ Wickliffe                                   |     8
+ Hemmingen                                   |     8
+ Saint-Lambert                               |     8
+ Paradise Valley                             |     8
+ Caledon                                     |     8
+ Lower Burrell                               |     8
+ Tuscola                                     |     8
+ Elizabeth                                   |     8
+ Unionville                                  |     8
+ Cross Plains                                |     8
+ Boucherville                                |     8
+ Stallings                                   |     7
+ Kornwestheim                                |     7
+ Gerlingen                                   |     7
+ White Oak                                   |     7
+ Mantua                                      |     7
+ Highland Heights                            |     7
+ Bainbridge                                  |     7
+ DeForest                                    |     7
+ Mont-Royal                                  |     7
+ Bradford West Gwillimbury                   |     7
+ Willoughby Hills                            |     7
+ Sun Lakes                                   |     6
+ De Forest                                   |     6
+ Peninsula                                   |     6
+ Saint-Hubert                                |     6
+ Ditzingen                                   |     6
+ Burton                                      |     6
+ Musselburgh                                 |     6
+ Turtle Creek                                |     6
+ Mc Farland                                  |     6
+ Dalkeith                                    |     6
+ Monongahela                                 |     6
+ Livingston                                  |     6
+ Dunfermline                                 |     6
+ Richmond Heights                            |     6
+ Wesley Chapel                               |     6
+ Plum                                        |     5
+ Bradford                                    |     5
+ Windsor                                     |     5
+ Cheswick                                    |     5
+ Munhall                                     |     5
+ Nobleton                                    |     5
+ West View                                   |     5
+ Aspinwall                                   |     5
+ Sharpsburg                                  |     5
+ Moon Township                               |     5
+ Penn Hills                                  |     5
+ Millvale                                    |     4
+ Penicuik                                    |     4
+ Cramerton                                   |     4
+ Saint-Hyacinthe                             |     4
+ Mount Lebanon                               |     4
+ McFarland                                   |     4
+ Frazer                                      |     4
+ Pierrefonds                                 |     4
+ Stanley                                     |     4
+ Belleville                                  |     4
+ Laveen Village                              |     4
+ Casablanca                                  |     4
+ Munroe Falls                                |     4
+ Trafford                                    |     4
+ Champlain                                   |     4
+ La Salle                                    |     4
+ North Randall                               |     4
+ Valley View                                 |     4
+ Freyburg                                    |     4
+ Crafton                                     |     4
+ Lowell                                      |     4
+ Mentor On the Lake                          |     4
+ Kirtland                                    |     4
+ Caledon East                                |     4
+ Wilkinsburg                                 |     4
+ Castle Shannon                              |     4
+ Hinckley                                    |     4
+ Anjou                                       |     4
+ Beloeil                                     |     4
+ Mc Kees Rocks                               |     4
+ West Homestead                              |     4
+ Midland                                     |     4
+ Chambly                                     |     4
+ King City                                   |     4
+ La Prairie                                  |     4
+ Guadalupe                                   |     4
+ N Las Vegas                                 |     4
+ Queensferry                                 |     4
+ Rigaud                                      |     3
+ Sainte-Julie                                |     3
+ Bedford Heights                             |     3
+ Newbury                                     |     3
+ Ross Township                               |     3
+ Finleyville                                 |     3
+ Central City Village                        |     3
+ Korntal-Münchingen                          |     3
+ Downtown Toronto                            |     3
+ Moss                                        |     3
+ Saint Joseph                                |     3
+ Willowdale                                  |     3
+ South Queensferry                           |     3
+ Nellis Afb                                  |     3
+ Greenfield Park                             |     3
+ Joliette                                    |     3
+ Haddington                                  |     3
+ Steinenbronn                                |     3
+ Rosemère                                    |     3
+ Hampton Township                            |     3
+ Harrison City                               |     3
+ Grafton                                     |     3
+ Braddock                                    |     3
+ Wilmerding                                  |     3
+ Imperial                                    |     3
+ Paradise                                    |     3
+ columbia station                            |     3
+ Sheffield Lake                              |     3
+ clinton                                     |     3
+ Schomberg                                   |     3
+ Nottingham                                  |     3
+ Springdale                                  |     3
+ Mont-Saint-Gregoire                         |     3
+ East Cleveland                              |     3
+ Saint-Jerome                                |     3
+ Spring Valley                               |     3
+ Higley                                      |     3
+ Seven Hills                                 |     3
+ Ahwatukee                                   |     3
+ Montreal-Ouest                              |     2
+ Pitcairn                                    |     2
+ Clarkson                                    |     2
+ Kleinburg                                   |     2
+ Mayfield Village                            |     2
+ Medina Township                             |     2
+ Hiram                                       |     2
+ Litchfield                                  |     2
+ Novelty                                     |     2
+ Copley                                      |     2
+ Saint-Lazare                                |     2
+ Presto                                      |     2
+ Old Town                                    |     2
+ Vimont                                      |     2
+ Cote Saint-Luc                              |     2
+ Argos                                       |     2
+ St Davids                                   |     2
+ Mirabel                                     |     2
+ Black Earth                                 |     2
+ Missisauga                                  |     2
+ Mont-Saint-Hilaire                          |     2
+ Stowe                                       |     2
+ Beaconsfield                                |     2
+ Notre-Dame-De-L'ile-Perrot                  |     2
+ Deux-Montagnes Regional County Municipality |     2
+ Brentwood                                   |     2
+ Pepper Pike                                 |     2
+ Homer                                       |     2
+ Leetsdale                                   |     2
+ Port Credit                                 |     2
+ King                                        |     2
+ City of Edinburgh                           |     2
+ Upper Saint Clair                           |     2
+ Las  Vegas                                  |     2
+ Leith                                       |     2
+ Schwieberdingen                             |     2
+ Enterprise                                  |     2
+ Saint-Jean-sur-Richelieu                    |     2
+ McDonald                                    |     2
+ Weddington                                  |     2
+ Terrebonne                                  |     2
+ Blainville                                  |     2
+ Mt Lebanon                                  |     2
+ Saint-Jérôme                                |     2
+ Montreal-West                               |     2
+ Châteauguay                                 |     2
+ Saint-Eustache                              |     2
+ Sainte-Therese                              |     2
+ Goodwood                                    |     2
+ Chateauguay                                 |     2
+ WICKLIFFE                                   |     2
+ Dravosburg                                  |     2
+ Moreland Hills                              |     2
+ York Regional Municipality                  |     2
+ Robinson Township                           |     2
+ Pheonix                                     |     2
+ Emsworth                                    |     2
+ las vegas                                   |     2
+ Lagrange                                    |     2
+ Harmarville                                 |     2
+ Kernen                                      |     2
+ Olmsted Township                            |     2
+ Gorebridge                                  |     2
+ Columbia Station                            |     2
+ Oakland                                     |     2
+ Mansfield                                   |     2
+ Waddell                                     |     2
+ Avalon                                      |     2
+ Delson                                      |     2
+ East Mc Keesport                            |     2
+ Shorewood Hills                             |     2
+ Moon                                        |     2
+ Gormley                                     |     2
+ Mercier                                     |     2
+ Beauharnois                                 |     1
+ AGINCOURT                                   |     1
+ Springfield                                 |     1
+ Paw Creek                                   |     1
+ Pine                                        |     1
+ Remseck am Neckar                           |     1
+ Valley City                                 |     1
+ Woodbridge (Vaughan)                        |     1
+ Bellvue                                     |     1
+ Northside                                   |     1
+ St-Benoît de Mirabel                        |     1
+ Forest Hills                                |     1
+ NorthYork                                   |     1
+ Bedford Hts.                                |     1
+ Oka                                         |     1
+ Roosevelt                                   |     1
+ Mohamet                                     |     1
+ Scottdale                                   |     1
+ Sainte-Thérèse-de-Blainville                |     1
+ South Park Township                         |     1
+ Noyan                                       |     1
+ L'ile-Bizard                                |     1
+ Lakewood Oh                                 |     1
+ Green Valley                                |     1
+ Prestonpans                                 |     1
+ Lacolle                                     |     1
+ Fort  Mill                                  |     1
+ Plan                                        |     1
+ Rillton                                     |     1
+ Juniper Green                               |     1
+ Meza                                        |     1
+ Schönaich                                   |     1
+ Baie-d'Urfé                                 |     1
+ Glendale Az                                 |     1
+ Gullane                                     |     1
+ Chester Township                            |     1
+ Montrose                                    |     1
+ Bratenahl                                   |     1
+ Cote-Saint-Luc                              |     1
+ Portobello                                  |     1
+ Ashburn                                     |     1
+ Brooklin                                    |     1
+ East Liberty                                |     1
+ Dalgety Bay                                 |     1
+ Banksville                                  |     1
+ New Town                                    |     1
+ River Drive Park                            |     1
+ Paoli                                       |     1
+ Kennedy Township                            |     1
+ N Royalton                                  |     1
+ Saint-Jean-Sur-Richelieu                    |     1
+ Library                                     |     1
+ Phx                                         |     1
+ Holland Landing                             |     1
+ Communauté-Urbaine-de-Montréal              |     1
+ Glenrothes                                  |     1
+ Pencaitland                                 |     1
+ Loanhead                                    |     1
+ Sainte-Thérèse                              |     1
+ Rouses Point                                |     1
+ Saint-Isidore-De-Laprairie                  |     1
+ Mount Albert                                |     1
+ Sainte-Anne-de-Bellevue                     |     1
+ McCandless                                  |     1
+ Spring Hill City View                       |     1
+ L'Île-Bizard                                |     1
+ Bruntsfield                                 |     1
+ Lowesville                                  |     1
+ Auburn                                      |     1
+ Scarbrough                                  |     1
+ Neuhausen                                   |     1
+ Venetia                                     |     1
+ Saint-Bruno                                 |     1
+ Montréal-Nord                               |     1
+ Vanier                                      |     1
+ Cleveland Hghts.                            |     1
+ Ingomar                                     |     1
+ St Bernard de Lacolle                       |     1
+ Side Slopes                                 |     1
+ Mc Donald                                   |     1
+ Scott Township                              |     1
+ Saint-Bruno-de-Montarville                  |     1
+ Oßweil                                      |     1
+ Saint-Marc-sur-Richelieu                    |     1
+ Lambton                                     |     1
+ Fithian                                     |     1
+ Bainbridge Township                         |     1
+ Sainte-Adele                                |     1
+ Prévost                                     |     1
+ Herminie                                    |     1
+ St-Eugène                                   |     1
+ North Olmstead                              |     1
+ Saint Laurent                               |     1
+ Mont St-hilaire                             |     1
+ Longstone                                   |     1
+ Fairport Harbor                             |     1
+ Saint-Paul                                  |     1
+ Mayfield                                    |     1
+ Inverkeithing                               |     1
+ Chomedey  Laval                             |     1
+ West Akron                                  |     1
+ Robinson Twp.                               |     1
+ Peters Township                             |     1
+ Kingussie                                   |     1
+ Mt Albert                                   |     1
+ Indian Lands                                |     1
+ Heidelberg                                  |     1
+ Mesa AZ                                     |     1
+ Tranent                                     |     1
+ Mc Murray                                   |     1
+ Las vegas                                   |     1
+ Cuddy                                       |     1
+ Grand River                                 |     1
+ Bernhausen                                  |     1
+ Ridgeville                                  |     1
+ Mentor On the                               |     1
+ Dudley                                      |     1
+ Henderson and Las vegas                     |     1
+ East Lothian                                |     1
+ Mentor-on-the-Lake                          |     1
+ Kernen im Remstal                           |     1
+ Aberlady                                    |     1
+ Saint-Sauveur-des-Monts                     |     1
+ Richmond Hil                                |     1
+ North Toronto                               |     1
+ Scotland                                    |     1
+ M7                                          |     1
+ Kirkcaldy                                   |     1
+ NORTH YORK                                  |     1
+ Sidney                                      |     1
+ Mascouche                                   |     1
+ Sheffield                                   |     1
+ Huntingdon                                  |     1
+ East Loth                                   |     1
+ Sainte-Marguerite-du-Lac-Masson             |     1
+ N Ridgeville                                |     1
+ Upper St Clair                              |     1
+ Stoney Creek                                |     1
+ Sainte-Anne-des-Plaines                     |     1
+ Montreal-Nord                               |     1
+ Otterburn Park                              |     1
+ Newhaven                                    |     1
+ Nellis AFB                                  |     1
+ Brookpark                                   |     1
+ Orange Village                              |     1
+ Dormont                                     |     1
+ Sainte-Adèle                                |     1
+ Pointe-Aux-Trembles                         |     1
+ Morin-Heights                               |     1
+ Upper St. Clair                             |     1
+ Fort McDowell                               |     1
+ St-Lazare-de-Vaudreuil                      |     1
+ Central City                                |     1
+ Gates Mills                                 |     1
+ Straiton                                    |     1
+ Sainte-Anne-De-Bellevue                     |     1
+ Cuyahoga Heights                            |     1
+ Concord Mills                               |     1
+ Mcmurray                                    |     1
+ North of Brampton                           |     1
+ Oakwood                                     |     1
+ Inglewood                                   |     1
+ St-Laurent                                  |     1
+ St Joseph                                   |     1
+ Scarobrough                                 |     1
+ Warrensville                                |     1
+ Houston                                     |     1
+ East McKeesport                             |     1
+ Saint-Charles-Borromee                      |     1
+ McAdenville                                 |     1
+ Clairton                                    |     1
+ L'Île-Perrot                                |     1
+ Shaler Township                             |     1
+ Mt. Oliver Boro                             |     1
+ Topaz                                       |     1
+ L'Ile-Perrot                                |     1
+ Ben Avon                                    |     1
+ Roxboro                                     |     1
+ Elrama                                      |     1
+ Leven                                       |     1
+ North Olmsted                               |     1
+ Glassport                                   |     1
+ East Mississauga                            |     1
+ Pheonix AZ                                  |     1
+ Firth of Forth                              |     1
+ Farnham                                     |     1
+ Essex                                       |     1
+ Summerlin                                   |     1
+ Indian Land                                 |     1
+ Rural Ridge                                 |     1
+ Geauga                                      |     1
+ Surprise Crossing                           |     1
+ Streetsville                                |     1
+ Esslingen am Neckar                         |     1
+ Indian land                                 |     1
+ Hazelwood                                   |     1
+ Vilas                                       |     1
+ Napierville                                 |     1
+ Thorncliffe Park                            |     1
+ Schottsdale                                 |     1
+ Linden                                      |     1
+ Kahnawake                                   |     1
+ Palmerston                                  |     1
+(616 rows)
+

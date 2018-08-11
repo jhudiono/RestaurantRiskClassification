@@ -1,0 +1,37 @@
+,accuracy,classification_report,est,f1,learning_rate,max_depth,max_features,min_impurity_decrease,min_samples_leaf,min_weight_fraction_leaf,model,n_estimators,precision,recall,roc_auc,test_class_balance,train_class_balance,booster
+0,0.888008800880088,"             precision    recall  f1-score   support
+
+          0       0.94      0.83      0.88      4590
+          1       0.84      0.95      0.89      4500
+
+avg / total       0.89      0.89      0.89      9090
+","GridSearchCV(cv=None, error_score='raise',
+       estimator=GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False),
+       fit_params=None, iid=True, n_jobs=1,
+       param_grid={'learning_rate': [0.6, 0.7], 'max_depth': [7, 8], 'max_features': [None], 'min_weight_fraction_leaf': [0, 0.01], 'min_impurity_decrease': [0, 0.01], 'min_samples_leaf': [0.05, 0.1], 'n_estimators': [200, 215]},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=1)",0.8934477705673016,0.7,8.0,,0.01,0.05,0.0,gradient_boosting,215.0,0.8444796201028888,0.9484444444444444,0.8886013071895424,"0: 50.50%, 1: 49.50%","0: 49.83%, 1: 50.17%",
+1,0.9311331133113311,"             precision    recall  f1-score   support
+
+          0       0.98      0.88      0.93      4519
+          1       0.89      0.98      0.93      4571
+
+avg / total       0.93      0.93      0.93      9090
+","GridSearchCV(cv=None, error_score='raise',
+       estimator=XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=100,
+       n_jobs=1, nthread=None, objective='binary:logistic', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1),
+       fit_params=None, iid=True, n_jobs=1,
+       param_grid={'learning_rate': [0.2, 0.3, 0.4], 'max_depth': [9], 'n_estimators': [85, 90, 200], 'booster': ['gbtree']},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=1)",0.9345598996445745,0.2,9.0,,,,,xgb_tree,200.0,0.8948948948948949,0.977904178516736,0.9308640166759382,"0: 49.71%, 1: 50.29%","1: 49.90%, 0: 50.10%",gbtree
